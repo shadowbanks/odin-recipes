@@ -1,0 +1,33 @@
+*{
+    font-family: "Bradley Hand", cursive;
+    background-color: rgb(105, 94, 32);
+    font-size: 22px;
+}
+body{
+    color: white;
+}
+a{
+    color: rgb(85, 136, 133);
+}
+.h1,
+.heading,
+h3{
+    color: rgb(14, 193, 238);
+}
+.heading{
+    text-align: center;
+}
+h3{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    
+}
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 22.5%;
+}
+
+.h1{
+    font-size: 22px;
+}
